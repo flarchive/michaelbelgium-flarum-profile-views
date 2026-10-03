@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of michaelbelgium/flarum-profile-views.** Not for installation: use [Packagist](https://packagist.org/packages/michaelbelgium/flarum-profile-views) or the [upstream repository](https://github.com/MichaelBelgium/flarum-profile-views).
 
-**0** versions archived · Latest: [`v9.0.1`](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v9.0.1) · License: `MIT` · Flarum: `^2.0.0-rc.1`
+**23** versions archived · Latest: [`v9.0.1`](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v9.0.1) · License: `MIT` · Flarum: `^2.0.0-rc.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2017-12-01 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v1.0.0) |
+| `v1.1.0` | 2017-12-28 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v1.1.0) |
+| `v1.1.1` | 2018-09-16 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v1.1.1) |
+| `v2.0.0` | 2018-12-01 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.0.0) |
+| `v2.1.0` | 2019-02-02 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.0) |
+| `v2.1.1` | 2019-05-10 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.1) |
+| `v2.1.2` | 2019-05-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.2) |
+| `v2.1.3` | 2019-05-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.3) |
+| `v2.1.4` | 2019-09-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.4) |
+| `v2.1.5` | 2020-01-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tree/archive/v2.1.5) |
+
+[View all 23 versions](https://github.com/flarchive/michaelbelgium-flarum-profile-views/tags)
 
 Catalog entry: [packages/michaelbelgium-flarum-profile-views.json](https://github.com/flarchive/archive-index/blob/main/packages/michaelbelgium-flarum-profile-views.json)
 
